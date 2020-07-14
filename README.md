@@ -7,7 +7,7 @@ I am a graduate student at Carnegie Mellon University. My interests are in robot
 
 <!---![test](https://i.pinimg.com/originals/f1/63/11/f16311fd0c32786525f471c685bc516e.gif)-->
 
-<p align = "center>
+<p align = "center">
   ![test](https://im4.ezgif.com/tmp/ezgif-4-98febb0bb3d1.gif)
             </p>
 
