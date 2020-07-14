@@ -8,6 +8,6 @@ I am a graduate student at Carnegie Mellon University. My interests are in robot
 <!---![test](https://i.pinimg.com/originals/f1/63/11/f16311fd0c32786525f471c685bc516e.gif)-->
 
 <p align = "center">
-  <img src= https://im4.ezgif.com/tmp/ezgif-4-98febb0bb3d1.gif>
+  <img src= https://raw.githubusercontent.com/AND2797/AND2797/master/ezgif-4-98febb0bb3d1.gif>
 </p>
 
