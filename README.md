@@ -1,8 +1,5 @@
 ### About me
 I am a graduate student at Carnegie Mellon University. My interests are in robotics and computing, specifically in Machine Learning, Computer Vision, and High Performance Computing. I enjoy working on challenging problems and bridging the gap between scientific research and engineering realisation. I am always looking for opportunities to contribute to open source projects!
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="flexseth"><a class="LI-simple-link" href="https://www.linkedin.com/in/flexseth?trk=profile-badge">Seth Miller</a></div>
-
 
 <!---![test](https://i.pinimg.com/originals/3f/a3/ab/3fa3ab106fe524505599ebcea9b281b8.gif)-->
 
