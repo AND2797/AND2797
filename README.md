@@ -4,8 +4,7 @@ I am a graduate student at Carnegie Mellon University. My interests are in robot
 <!---![test](https://i.pinimg.com/originals/3f/a3/ab/3fa3ab106fe524505599ebcea9b281b8.gif)-->
 
 <!---![test](https://i.pinimg.com/originals/f1/63/11/f16311fd0c32786525f471c685bc516e.gif)-->
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="flexseth"><a class="LI-simple-link" href="https://www.linkedin.com/in/flexseth?trk=profile-badge">Seth Miller</a></div>
+
 
 
 <p align = "center">
