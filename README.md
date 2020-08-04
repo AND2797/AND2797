@@ -5,7 +5,7 @@ I am a graduate student at Carnegie Mellon University. My interests are in robot
 
 <!---![test](https://i.pinimg.com/originals/f1/63/11/f16311fd0c32786525f471c685bc516e.gif)-->
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/and27/)
-
+[<img src = "https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=googlescholar&logoColor=white" />](https://scholar.google.co.in/citations?user=lMgUbO0AAAAJ&hl=en)
 <p align = "center">
   <img src= https://raw.githubusercontent.com/AND2797/AND2797/master/ezgif-4-98febb0bb3d1.gif>
 </p>
