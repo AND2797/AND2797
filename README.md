@@ -9,7 +9,7 @@ My areas of interest are in Deep Learning, Distributed Computing, Robotics and C
 [<img src = "https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google&logoColor=white" />](https://scholar.google.co.in/citations?user=lMgUbO0AAAAJ&hl=en)
 
 <p align = "center">
-  <img src= https://raw.githubusercontent.com/AND2797/AND2797/master/ezgif-4-98febb0bb3d1.gif>
+  <img src= https://i.pinimg.com/originals/f1/63/11/f16311fd0c32786525f471c685bc516e.gif>
 </p>
 
 
