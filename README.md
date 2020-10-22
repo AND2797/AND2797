@@ -1,7 +1,5 @@
 ### About me
 My areas of interest are in Deep Learning, Distributed Computing, Robotics and Computational Engineering.
-
-I enjoy typing - https://www.keybr.com/profile/p4o6rlj!
 <!---![test](https://i.pinimg.com/originals/3f/a3/ab/3fa3ab106fe524505599ebcea9b281b8.gif)-->
 
 
