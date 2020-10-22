@@ -1,5 +1,7 @@
 ### About me
 I am a graduate student at Carnegie Mellon University. My current focus is in robotics and computing, specifically in Machine Learning, Computer Vision, and Computing. I enjoy working on challenging problems and bridging the gap between scientific research and engineering realisation. 
+
+I enjoy typing - https://www.keybr.com/profile/p4o6rlj !
 <!---![test](https://i.pinimg.com/originals/3f/a3/ab/3fa3ab106fe524505599ebcea9b281b8.gif)-->
 
 
@@ -7,7 +9,7 @@ I am a graduate student at Carnegie Mellon University. My current focus is in ro
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/and27/)
 [<img src = "https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google&logoColor=white" />](https://scholar.google.co.in/citations?user=lMgUbO0AAAAJ&hl=en)
-I enjoy typing - https://www.keybr.com/profile/p4o6rlj !
+
 <p align = "center">
   <img src= https://raw.githubusercontent.com/AND2797/AND2797/master/ezgif-4-98febb0bb3d1.gif>
 </p>
