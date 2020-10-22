@@ -1,7 +1,7 @@
 ### About me
-I am a graduate student at Carnegie Mellon University. My current focus is in robotics and computing, specifically in Machine Learning, Computer Vision, and Computing. I enjoy working on challenging problems and bridging the gap between scientific research and engineering realisation. 
+My areas of interest are in Deep Learning, Distributed Computing, Robotics and Computational Engineering.
 
-I enjoy typing - https://www.keybr.com/profile/p4o6rlj !
+I enjoy typing - https://www.keybr.com/profile/p4o6rlj!
 <!---![test](https://i.pinimg.com/originals/3f/a3/ab/3fa3ab106fe524505599ebcea9b281b8.gif)-->
 
 
