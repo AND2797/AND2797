@@ -5,9 +5,6 @@ My areas of interest are in Deep Learning, Distributed Computing, Robotics and C
 
 <!---![test](https://i.pinimg.com/originals/f1/63/11/f16311fd0c32786525f471c685bc516e.gif)-->
 
-Some links -
-
-https://www.linuxatemyram.com/
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/and27/)
