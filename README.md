@@ -20,6 +20,8 @@ Read 1 MB sequentially from SSD* ..... 1,000,000 ns  =   1 ms
 Disk seek ........................... 10,000,000 ns  =  10 ms
 Read 1 MB sequentially from disk .... 20,000,000 ns  =  20 ms
 Send packet CA->Netherlands->CA .... 150,000,000 ns  = 150 ms
+
+# Jeff Dean / Peter Norvig 
 ```
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/and27/)
