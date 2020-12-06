@@ -4,7 +4,7 @@ My areas of interest are in Deep Learning, Distributed Computing, and Robotics.
 
 
 <!---![test](https://i.pinimg.com/originals/f1/63/11/f16311fd0c32786525f471c685bc516e.gif)-->
-## Friendly Reminder
+#### Friendly Reminder
 ```
 L1 cache reference ......................... 0.5 ns
 Branch mispredict ............................ 5 ns
